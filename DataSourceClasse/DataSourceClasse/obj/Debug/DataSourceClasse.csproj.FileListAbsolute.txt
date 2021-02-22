@@ -1,0 +1,6 @@
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\DataSourceClasse\DataSourceClasse\bin\Debug\DataSourceClasse.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\DataSourceClasse\DataSourceClasse\bin\Debug\DataSourceClasse.pdb
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\DataSourceClasse\DataSourceClasse\obj\Debug\DataSourceClasse.csprojAssemblyReference.cache
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\DataSourceClasse\DataSourceClasse\obj\Debug\DataSourceClasse.csproj.CoreCompileInputs.cache
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\DataSourceClasse\DataSourceClasse\obj\Debug\DataSourceClasse.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\DataSourceClasse\DataSourceClasse\obj\Debug\DataSourceClasse.pdb

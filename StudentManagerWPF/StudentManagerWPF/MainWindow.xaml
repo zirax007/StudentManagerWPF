@@ -1,0 +1,67 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentManagerWPF"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls" x:Class="StudentManagerWPF.MainWindow"
+        mc:Ignorable="d"
+        Icon="Assets/images.png"
+        Title="LoginWindow" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" KeyDown="Window_KeyDown">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Rectangle Height="307" VerticalAlignment="Top" >
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0,0.5" >
+                    <GradientStop Color="#F7FDFE" Offset="1.5" />
+                    <GradientStop Color="#A3CBD0" Offset=".5" />
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Grid Grid.RowSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="7*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Image Source="Assets/shut.png" Grid.Row="0" Height="15" Width="15" HorizontalAlignment="Right" MouseLeftButtonDown="CloseClick" VerticalAlignment="Top" Margin="0,10,10,0"/>
+            <Image Source="Assets/mini.png" Grid.Row="0" Height="15" Width="15" MouseLeftButtonDown="MinimizeClick" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,10,40,0"/>
+        </Grid>
+        <Grid HorizontalAlignment="Center" Height="450" Margin="116,0" Grid.RowSpan="2" >
+            <Image Source="Assets/ensa-safi-.png" VerticalAlignment="Top" Margin="-20" Width="600" Height="189" />
+            <Label Content="Gestion Des Etudiants" HorizontalAlignment="Center" Foreground="Black" FontSize="24" FontWeight="Bold" Width="auto" Height="auto" Margin="159,120,154,281"  />
+
+            <Rectangle  Width="514" Height ="190" RadiusY="12" RadiusX="12" Fill="White" VerticalAlignment="Bottom" Margin="0,70" HorizontalAlignment="Center" >
+                <Rectangle.Effect>
+                    <DropShadowEffect Color="#FFC1D3E4" Direction="0" BlurRadius="15" RenderingBias="Quality" ShadowDepth="1"/>
+                </Rectangle.Effect>
+            </Rectangle>
+            <Grid Width="514" Height ="190" VerticalAlignment="Bottom" Margin="0,70" HorizontalAlignment="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="275*"/>
+                    <ColumnDefinition Width="239*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel VerticalAlignment="Center" Margin="10,16,10,46" Grid.ColumnSpan="2">
+                    <Label x:Name="error" HorizontalAlignment="Center"  VerticalAlignment="Top" Foreground="#FFFF0606"/>
+                    <TextBox x:Name="username" materialDesign:HintAssist.Hint="Username" Style="{StaticResource MaterialDesignFloatingHintTextBox}"   Width="458" Margin="0,10" />
+                    <PasswordBox x:Name="mdp" materialDesign:HintAssist.Hint="Password" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"  Width="458"  Margin="0,10"/>
+                </StackPanel>
+            </Grid>
+            <Button x:Name="login" Content="LOGIN"  Click="login_Click"  VerticalAlignment="Bottom" Height="48" Background="#FFCDE4E7" Margin="45" FontWeight="Bold" FontSize="16" HorizontalAlignment="Center" Width="116" Foreground="Black">
+                <Button.Resources>
+                    <Style TargetType="{x:Type Border}">
+                        <Setter Property="CornerRadius" Value="8"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+        </Grid>
+
+
+
+    </Grid>
+</Window>

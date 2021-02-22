@@ -1,0 +1,9 @@
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerServer\StudentManagerServer\bin\Debug\StudentManagerServer.exe.config
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerServer\StudentManagerServer\bin\Debug\StudentManagerServer.exe
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerServer\StudentManagerServer\bin\Debug\StudentManagerServer.pdb
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerServer\StudentManagerServer\bin\Debug\DataSourceClasse.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerServer\StudentManagerServer\obj\Debug\StudentManagerServer.csprojAssemblyReference.cache
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerServer\StudentManagerServer\obj\Debug\StudentManagerServer.csproj.CoreCompileInputs.cache
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerServer\StudentManagerServer\obj\Debug\StudentManagerServer.csproj.CopyComplete
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerServer\StudentManagerServer\obj\Debug\StudentManagerServer.exe
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerServer\StudentManagerServer\obj\Debug\StudentManagerServer.pdb

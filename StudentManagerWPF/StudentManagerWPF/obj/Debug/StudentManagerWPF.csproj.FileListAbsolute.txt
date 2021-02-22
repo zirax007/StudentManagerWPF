@@ -1,0 +1,333 @@
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\StudentManagerWPF.exe.config
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\StudentManagerWPF.exe
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\StudentManagerWPF.pdb
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csprojAssemblyReference.cache
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\App.g.cs
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF_MarkupCompile.cache
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF_MarkupCompile.lref
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\MainWindow.baml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.g.resources
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.Properties.Resources.resources
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csproj.GenerateResource.cache
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csproj.CoreCompileInputs.cache
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.exe
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.pdb
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\StudentManagerWPF.exe.config
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\StudentManagerWPF.exe
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\StudentManagerWPF.pdb
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\ControlzEx.dll
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\ControlzEx.pdb
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\ControlzEx.xml
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csprojAssemblyReference.cache
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\firstWindow.g.cs
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\App.g.cs
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF_MarkupCompile.cache
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF_MarkupCompile.lref
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\App.baml
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\firstWindow.baml
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\MainWindow.baml
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.g.resources
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.Properties.Resources.resources
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csproj.GenerateResource.cache
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csproj.CoreCompileInputs.cache
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csproj.CopyComplete
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.exe
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.pdb
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\MenuWindow.g.cs
+C:\Users\safae\Desktop\c#Apps\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\MenuWindow.baml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\ControlzEx.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\ControlzEx.pdb
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\ControlzEx.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\firstWindow.g.cs
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\MenuWindow.g.cs
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\MenuWindow.baml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csproj.CopyComplete
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\StudentManagerWPF.exe.config
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\StudentManagerWPF.exe
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\StudentManagerWPF.pdb
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\ControlzEx.dll
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\ControlzEx.pdb
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\ControlzEx.xml
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csprojAssemblyReference.cache
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\firstWindow.g.cs
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\MenuWindow.g.cs
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\App.g.cs
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF_MarkupCompile.cache
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF_MarkupCompile.lref
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\App.baml
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\firstWindow.baml
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\MainWindow.baml
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\MenuWindow.baml
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.g.resources
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.Properties.Resources.resources
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csproj.GenerateResource.cache
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csproj.CoreCompileInputs.cache
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csproj.CopyComplete
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.exe
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.pdb
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\Dragablz.dll
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\Dragablz.pdb
+C:\Users\safae\Desktop\StudentManager\StudentManagerWPF\StudentManagerWPF\bin\Debug\Dragablz.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Dragablz.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Dragablz.pdb
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Dragablz.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\App.baml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\firstWindow.baml
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csprojAssemblyReference.cache
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\EditWindow.g.cs
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\firstWindow.g.cs
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\MenuWindow.g.cs
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\App.g.cs
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF_MarkupCompile.cache
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF_MarkupCompile.lref
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.exe
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.pdb
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\StudentManagerWPF.exe.config
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\StudentManagerWPF.exe
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\StudentManagerWPF.pdb
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\ControlzEx.dll
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\Dragablz.dll
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\ControlzEx.pdb
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\ControlzEx.xml
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\Dragablz.pdb
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\Dragablz.xml
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\App.baml
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\firstWindow.baml
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\MainWindow.baml
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\MenuWindow.baml
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\EditWindow.baml
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.g.resources
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.Properties.Resources.resources
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csproj.GenerateResource.cache
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csproj.CoreCompileInputs.cache
+C:\Users\safae\Desktop\StudentM\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csproj.CopyComplete
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\EditWindow.g.cs
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\EditWindow.baml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.DataVisualization.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GanttView.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GridView.Export.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GridView.SpreadsheetStreamingExport.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Proofing.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Proofing.RadGridView.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Scheduling.Core.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.DataVisualization.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GanttView.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GridView.Export.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GridView.SpreadsheetStreamingExport.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Proofing.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Proofing.RadGridView.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Scheduling.Core.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.exe.licenses
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\InsertDataWindow.g.cs
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\InsertDataWindow.baml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\SharpDX.Direct3D10.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\SharpDX.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\SharpDX.DXGI.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Chart.Direct2D.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Chart.dll
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Chart.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Chart.Direct2D.xml
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\FiliereEdit.g.cs
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\saadr\Desktop\.Net Programming\WPF\StudentManagerWPF\StudentManagerWPF\StudentManagerWPF\obj\Debug\FiliereEdit.baml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\StudentManagerWPF.exe.config
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\StudentManagerWPF.exe
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\StudentManagerWPF.pdb
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\ControlzEx.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Dragablz.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\SharpDX.Direct3D10.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\SharpDX.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\SharpDX.DXGI.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Chart.Direct2D.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Chart.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.DataVisualization.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GanttView.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GridView.Export.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GridView.SpreadsheetStreamingExport.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Proofing.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Proofing.RadGridView.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Scheduling.Core.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\ControlzEx.pdb
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\ControlzEx.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Dragablz.pdb
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Dragablz.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.MahApps.pdb
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Chart.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Chart.Direct2D.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.DataVisualization.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GanttView.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GridView.Export.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.GridView.SpreadsheetStreamingExport.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Proofing.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Proofing.RadGridView.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Scheduling.Core.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csprojAssemblyReference.cache
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\EditWindow.g.cs
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\FiliereEdit.g.cs
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\firstWindow.g.cs
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\InsertDataWindow.g.cs
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\MenuWindow.g.cs
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\App.g.cs
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF_MarkupCompile.cache
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF_MarkupCompile.lref
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\App.baml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\EditWindow.baml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\FiliereEdit.baml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\firstWindow.baml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\InsertDataWindow.baml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\MainWindow.baml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\MenuWindow.baml
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.g.resources
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.Properties.Resources.resources
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csproj.GenerateResource.cache
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.exe.licenses
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csproj.CoreCompileInputs.cache
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.csproj.CopyComplete
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.exe
+C:\Users\safae\Source\Repos\StudentManagerWPFVF\StudentManagerWPF\StudentManagerWPF\obj\Debug\StudentManagerWPF.pdb

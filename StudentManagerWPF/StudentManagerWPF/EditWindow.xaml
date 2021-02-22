@@ -1,0 +1,42 @@
+﻿<Window x:Class="StudentManagerWPF.EditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentManagerWPF"
+        mc:Ignorable="d"
+        Icon="Assets/images.png"
+
+        Title="EditWindow" Height="550" Width="1000" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Loaded="Window_Loaded">
+    <Grid>
+        <Grid Height="20" Background="WhiteSmoke" VerticalAlignment="Top">
+            <Image Source="Assets/back.png" HorizontalAlignment="Left"  MouseLeftButtonDown="Back"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Image Source="Assets/shut.png"  MouseLeftButtonDown="Close" Margin="2" />
+            </StackPanel>
+        </Grid>
+        <Grid Height="530" VerticalAlignment="Bottom">
+            <Rectangle  Width="960" Height ="500" Margin="15 0" RadiusY="12" RadiusX="12" Fill="White" HorizontalAlignment="Center" >
+                <Rectangle.Effect>
+                    <DropShadowEffect Color="#FFC1D3E4" Direction="0" BlurRadius="10" RenderingBias="Quality" ShadowDepth="1"/>
+                </Rectangle.Effect>
+            </Rectangle>
+            <Grid Width="960" Height ="500" Margin="15 0" HorizontalAlignment="Center">
+                <StackPanel>
+                    <WrapPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="15">
+                        <Button Margin="0,0,5,0" Width="130" Name="Button1ere" Click="Button1ere_Click" Background="#2000ff" >1ére Année</Button>
+                        <Button Margin="0,0,5,0" Width="130" Background="#72a7da" Name="Button2eme" Click="Button2eme_Click">2éme Année</Button>
+                        <Button Margin="0,0,5,0" Width="130" Background="#72a7da" Name="Button3eme" Click="Button3eme_Click">3éme Anée</Button>
+                        <Button Margin="130,0,5,0" Width="60" Height="35" Name="addStudent" Background="{x:Null}" BorderBrush="#FF154F7E" Click="addStudent_Click">
+                            <Image Source="/Assets/student.png" Width="30" Height="40"></Image>
+                        </Button>
+                    </WrapPanel>
+
+                    <WrapPanel Grid.Row="0" Grid.Column="2" x:Name="cards" Margin="10" />
+
+                </StackPanel>
+            </Grid>
+
+        </Grid>
+    </Grid>
+</Window>

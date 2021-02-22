@@ -1,0 +1,51 @@
+git remote add DepotName url // connect to repository
+
+git clone url //clone repository
+
+git branch // show branches
+
+git branch branchName // create new Branch
+
+git branch -d branchName //delete branch	
+
+git checkout branchName // switch to branch branchName
+
+git addd ficher.txt // add file to stage be commited after
+
+git commit -m "comments" // saving/commiting new changes on branch
+
+git commit -am "comments" // add and commit at the same time
+
+git commit --amend -m "Votre nouveau message de commit" // changer le commentaire du dernier commit
+
+git log // liste des commit faites
+
+git stash // remise des modification et les enrigstrer a coté
+
+git stash list // liste des stash enregistrés
+
+git stach apply stach@{1} // appliquer les modifications enregistrés avec git stash dans une autre branche
+
+git reset --hard HEAD^ // supprimer le dernier commit (sur master)
+
+git reset --hard ca83a6df // sur branch
+
+git commit --amend --no-edit // ajouter un fichier au dernier commit (use 'git add file.txt' first)
+
+git revert HEAD^ // annuler les commit sur gitHub
+
+git reset notreCommitCible  --hard // revenir a un commit cible en supprimant tout ce qui est apres ce commit
+
+git reset --Soft permet juste de se placer sur un commit spécifique afin de voir le code à un instant donné ou créer une branche partant d'un ancien commit.
+
+git  reset --mixed // retourne a un commit sans supprimer ce qui apres (HEAD pointeur vers la version courante)
+
+(Reset va revenir à l'état précédent sans créer un nouveau commit, alors que Revert va créer un nouveau commit.)
+
+git reflog // liste des actions que vous avez faits
+
+git checkout e54f321 // revenir a un commit
+
+git blame monFichier.php // permet de voir qui a editer chaque ligne
+
+git cherry-pick d356940 de966d4 // merger les commits specifiques d'une branche au master
